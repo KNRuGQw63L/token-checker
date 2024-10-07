@@ -89,7 +89,7 @@ After this amount of time, I'm ready to write a huge changelog for the project:
 5) An early update of the telegram bot is possible! Follow the news! 
 6) Fix api, now it looks not so clumsy. 
 
-
+ 
 ## Changelog 1
 
 Firstly, now the tokens data is processed on a remote server. This is due to the fact that I have been writing a telegram bot for checking tokens for a long time and I did not want to rewrite the backend for python.
