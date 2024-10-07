@@ -38,7 +38,7 @@ The project still work and currently being rewritten for react and nest js. I th
  
 1) Q: Could there be bugs in the code?
 
-   A: Absolutely not. All methods used in the checker have been tested 1000 times by me, and the results have been verified with other checkers, including synchronous ones.
+   A: Absolutely not. All methods used in the checker have been tested 1000 times by me, and the results have been verified with other checkers, including synchronous ones. 
 
 2) Q: Why is the sum of valid + unverified + invalid tokens less than the sum of parsed tokens?
 
