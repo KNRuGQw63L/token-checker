@@ -43,7 +43,7 @@ The project still work and currently being rewritten for react and nest js. I th
 2) Q: Why is the sum of valid + unverified + invalid tokens less than the sum of parsed tokens?
 
    A: The checker records all id tokens. If the new token contains an id from the list of verified ones, it is removed. Don't worry if one token becomes invalid another token with the same id too.
-
+ 
 3) Q: Why do I have 1000 tokens in the file, but the parser found only 580?
 
    A: The code uses an advanced token parser. The fact is that ordinary parsers check only the token pattern, but it also needs to check headers. (More info: https://jwt.io/introduction)
