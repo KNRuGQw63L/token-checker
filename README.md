@@ -71,7 +71,7 @@ Json output:
             "status": "valid || unverified || invalid", 
             "me": {},
             "payment_sources": {}
-        }
+        } 
     }
 }        
 ```
