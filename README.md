@@ -77,7 +77,7 @@ Json output:
 ```
 <div align="center">
 
-</div>
+</div> 
   
 ## Changelog 2
  
