@@ -40,7 +40,7 @@ The project still work and currently being rewritten for react and nest js. I th
 
    A: Absolutely not. All methods used in the checker have been tested 1000 times by me, and the results have been verified with other checkers, including synchronous ones. 
 
-2) Q: Why is the sum of valid + unverified + invalid tokens less than the sum of parsed tokens?
+2) Q: Why is the sum of valid + unverified + invalid tokens less than the sum of parsed tokens? 
 
    A: The checker records all id tokens. If the new token contains an id from the list of verified ones, it is removed. Don't worry if one token becomes invalid another token with the same id too.
  
