@@ -17,7 +17,7 @@ The project still work and currently being rewritten for react and nest js. I th
 4. Go in the extracted folder and open the start.bat file 
 
 5. Enjoy!
-
+ 
 ## USAGE
 </div>
 
