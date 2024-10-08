@@ -56,7 +56,7 @@ Standart output with valid, invalid, etc txt files.
 
 Json output:
 ```json
-{ 
+{  
     "tokensInfo": {
         "valid": [],
         "nitro": [], 
