@@ -59,7 +59,7 @@ Json output:
 { 
     "tokensInfo": {
         "valid": [],
-        "nitro": [],
+        "nitro": [], 
         "payment": [],
         "phone": [],
         "unverified": [],
