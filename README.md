@@ -31,7 +31,7 @@ The project still work and currently being rewritten for react and nest js. I th
  
 [CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839662-cf4f9872-3ece-4892-85b6-e18e84a28b0b.png)](https://youtu.be/dU0foZX8v5k)
 
-[CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839142-f1af441e-a63d-4ed5-abf2-023d687b0239.jpg)](https://youtu.be/mY648L5FqeA)
+[CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839142-f1af441e-a63d-4ed5-abf2-023d687b0239.jpg)](https://youtu.be/mY648L5FqeA) 
 
 ## QUESTIONS
 </div>
