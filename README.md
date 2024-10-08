@@ -66,7 +66,7 @@ Json output:
         "invalid": [],
         "parsedTokens": []
     },
-    "tokensData": {
+    "tokensData": { 
         "TOKEN": {
             "status": "valid || unverified || invalid",
             "me": {},
