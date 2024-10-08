@@ -78,7 +78,7 @@ Json output:
 <div align="center">
 
 </div>
- 
+  
 ## Changelog 2
  
 After this amount of time, I'm ready to write a huge changelog for the project:
