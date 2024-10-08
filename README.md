@@ -26,7 +26,7 @@ The project still work and currently being rewritten for react and nest js. I th
 3) Then your tokens, check for validation using parallel request with highest speed.  
 4) In the output you get text files with tokens and json_data file which contain all tokens data .
 <div align="center">
-
+ 
 ## VIDEOS
  
 [CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839662-cf4f9872-3ece-4892-85b6-e18e84a28b0b.png)](https://youtu.be/dU0foZX8v5k)
