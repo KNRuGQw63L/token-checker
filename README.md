@@ -91,7 +91,7 @@ After this amount of time, I'm ready to write a huge changelog for the project:
 
   
 ## Changelog 1
-
+ 
 Firstly, now the tokens data is processed on a remote server. This is due to the fact that I have been writing a telegram bot for checking tokens for a long time and I did not want to rewrite the backend for python.
  
 In this regard, the speed increased from 1 token per second to 40. I achieved this with the help of parallel requests and proxies, it was difficult to implement in python. Also, when I finish the nuker, it will probably be the fastest, since the 429 error handler with limit checking will be used. 
