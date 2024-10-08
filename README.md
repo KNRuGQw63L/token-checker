@@ -8,7 +8,7 @@ The project still work and currently being rewritten for react and nest js. I th
  
 # Guide on how to install these tool
 
-1. Install Python from
+1. Install Python from 
 
 2. Download the repo as a ZIP 
 
