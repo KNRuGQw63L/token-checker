@@ -99,4 +99,4 @@ In this regard, the speed increased from 1 token per second to 40. I achieved th
 As soon as I complete the backend (checker, info, idTracker, webhookSpammer, nitroBuyer, serverNuker, userNuker, messageSearcher) I will publish it in the public.
 
 Since 1 more request is needed for the final verification of tokens, then you get the payment sources as a side to discord.gg/users/@me. 
-Also due to the fact that you send tokens to the server, to avoid spam, there are one request per minute otherwise 429 error. 
+Also due to the fact that you send tokens to the server, to avoid spam, there are one request per minute otherwise 429 error.  
