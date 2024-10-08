@@ -10,7 +10,7 @@ The project still work and currently being rewritten for react and nest js. I th
 
 1. Install Python from
 
-2. Download the repo as a ZIP
+2. Download the repo as a ZIP 
 
 3. Go in your file explorer and extract the ZIP file
 
