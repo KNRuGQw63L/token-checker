@@ -68,7 +68,7 @@ Json output:
     },
     "tokensData": { 
         "TOKEN": {
-            "status": "valid || unverified || invalid",
+            "status": "valid || unverified || invalid", 
             "me": {},
             "payment_sources": {}
         }
