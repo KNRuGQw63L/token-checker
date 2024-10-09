@@ -79,7 +79,7 @@ Json output:
 
 </div> 
   
-## Changelog 2
+## Changelog 2 
  
 After this amount of time, I'm ready to write a huge changelog for the project:
 1) Added proxies to the checker, which increased the speed by n-times (depends on how many proxies are active on the server). I had to try to integrate them into the already complex request code. 
