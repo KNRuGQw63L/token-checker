@@ -88,7 +88,7 @@ After this amount of time, I'm ready to write a huge changelog for the project:
 4) I had to discard such modules as nitroChecker, nitroPurchaser, info. They are hard to maintain code and I don't think they will be in demand. 
 5) An early update of the telegram bot is possible! Follow the news! 
 6) Fix api, now it looks not so clumsy. 
-
+ 
   
 ## Changelog 1
  
