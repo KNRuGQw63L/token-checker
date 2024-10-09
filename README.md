@@ -46,7 +46,7 @@ The project still work and currently being rewritten for react and nest js. I th
   
 3) Q: Why do I have 1000 tokens in the file, but the parser found only 580? 
  
-   A: The code uses an advanced token parser. The fact is that ordinary parsers check only the token pattern, but it also needs to check headers. (More info: https://jwt.io/introduction) 
+   A: The code uses an advanced token parser. The fact is that ordinary parsers check only the token pattern, but it also needs to check headers. (More info: https://jwt.io/introduction)  
 In short, there are tokens that were created by some kind of token generator. They contain a header. If you decrypt it (base64), then for natural discord tokens it represents json value, while for generated ones it will be different. Check it out for yourself: https://jwt.io/#debugger-io. 
 <div align="center">    
 
