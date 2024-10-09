@@ -52,7 +52,7 @@ In short, there are tokens that were created by some kind of token generator. Th
 
 ## OUTPUT
 </div>
-Standart output with valid, invalid, etc txt files.
+Standart output with valid, invalid, etc txt files. 
 
 Json output:
 ```json
