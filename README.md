@@ -70,7 +70,7 @@ Json output:
         "TOKEN": {
             "status": "valid || unverified || invalid", 
             "me": {}, 
-            "payment_sources": {}
+            "payment_sources": {} 
         } 
     }
 }        
